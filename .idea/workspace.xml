@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2ec48bda-390b-4de4-92ee-25b644824bce" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Banking-System.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking-System.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-service/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-service/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-service/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-service/core/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-service/core/src/main/java/nxc/hcmus/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-service/src/main/java/nxc/hcmus/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/posting-service/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/posting-service/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/posting-service/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/posting-service/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/posting-service/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/posting-service/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/posting-service/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/posting-service/application/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/posting-service/application/src/main/java/nxc/hcmus/PostingServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/posting-service/application/src/main/java/nxc/hcmus/repository/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/posting-service/application/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/posting-service/common/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/posting-service/consumer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/posting-service/controller/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/posting-service/core/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/posting-service/core/src/main/java/nxc/hcmus/core/inbound/api/InboundHardSettlementApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/posting-service/core/src/main/java/nxc/hcmus/core/inbound/api/OutBoundHardSettlementApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/posting-service/core/src/main/java/nxc/hcmus/core/inbound/api/TransferApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/posting-service/core/src/main/java/nxc/hcmus/core/service/TransferService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/posting-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/posting-service/producer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/posting-service/producer/src/main/java/nxc/hcmus/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/posting-service/repository/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/posting-service/repository/src/main/java/nxc/hcmus/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transaction-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transaction-service/src/main/java/nxc/hcmus/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ngoxuanchien"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ngoxuanchien/Banking-System.git",
+    "accountId": "46838657-9357-47ce-b08d-745f38b2fd48"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2nwDGyx4YWpFSr4aXhZFcaTvQqO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="PostingServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="application" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="nxc.hcmus.PostingServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ec48bda-390b-4de4-92ee-25b644824bce" name="Changes" comment="" />
+      <created>1729875154239</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729875154239</updated>
+      <workItem from="1729875156543" duration="134000" />
+      <workItem from="1729967526423" duration="95000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
